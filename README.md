@@ -1,1 +1,1 @@
-neoflex-video-subscription-cms
+Project M72 Movie Subscription
